@@ -2,6 +2,7 @@
   "expo": {
     "name": "AppRickandMorty",
     "slug": "AppRickandMorty",
+    "entryPoint": "App.js",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -26,7 +27,6 @@
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
-      "expo-router",
       [
         "expo-splash-screen",
         {
